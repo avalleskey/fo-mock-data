@@ -1,0 +1,58 @@
+{
+        "data": [
+                 {
+                     "startTime": @"8:00",
+                     "endTime": "8:45",
+                     "name": "1st Period",
+                     "color": "blue"
+                 },
+                 {
+                     "startTime": @"8:51",
+                     "endTime": "9:36",
+                     "name": "2nd Period",
+                     "color": "blue"
+                 },
+                 {
+                     "startTime": @"9:42",
+                     "endTime": "10:27",
+                     "name": "3rd Period",
+                     "color": "blue"
+                 },
+                 {
+                     "startTime": @"10:33",
+                     "endTime": "10:58",
+                     "name": "Community Time",
+                     "color": "green"
+                 },
+                 {
+                     "startTime": @"11:04",
+                     "endTime": "11:49",
+                     "name": "4th Period",
+                     "color": "blue"
+                 },
+                 {
+                     "startTime": @"11:49",
+                     "endTime": "12:33",
+                     "name": "Combined Lunch",
+                     "color": "orange"
+                 },
+                 {
+                     "startTime": @"12:33",
+                     "endTime": "1:18",
+                     "name": "5th Period",
+                     "color": "blue"
+                 },
+                 {
+                     "startTime": @"13:24",
+                     "endTime": "14:09",
+                     "name": "6th Period",
+                     "color": "blue"
+                 },
+                 {
+                     "startTime": @"14:15",
+                     "endTime": "15:00",
+                     "name": "7th Period",
+                     "color": "blue"
+                 }
+                 ]
+    }
