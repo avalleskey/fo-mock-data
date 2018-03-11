@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "type": "event",
+      "image": "https://d2ffutrenqvap3.cloudfront.net/items/2D0R0e2C0U182Q1w0K3J/highschoolmusicallogo@3x.png",
+      "date": "June 19-21",
+      "actions": [
+        {
+          "title": "Learn More",
+          "action": "https://getfrontoffice.com"
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "type": "update",
+      "text": "Prom tickets are on sale in the Atrium! Stop by at lunch to grab yours before it’s too late!",
+      "actions": [
+        {
+          "title": "Learn More",
+          "action": "https://getfrontoffice.com"
+        }
+      ],
+      "color": "white"
+    }
+  ]
+}
