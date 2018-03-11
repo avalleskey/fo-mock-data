@@ -15,6 +15,7 @@
     {
       "type": "update",
       "text": "Prom tickets are on sale in the Atrium! Stop by at lunch to grab yours before it’s too late!",
+      "postedBy": "Student Council",
       "actions": [
         {
           "title": "Learn More",
