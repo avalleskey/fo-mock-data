@@ -1,29 +1,52 @@
 {
   "data": {
-    {
-      "breakfast": [
-        {
-          "title": "Entree",
-          "options": [
-            "Biscuit",
-            "Gravy",
-            "Assorted Cereal"
-          ]
-        },
-        {
-        "title": "Fruit",
+    "breakfast": [
+      {
+        "title": "Entree",
         "options": [
-            "Orange Juice",
-            "Assorted Fruit"
-          ]
-        },
-        {
-        "title": "Beverage",
+          "Biscuit",
+          "Gravy",
+          "Assorted Cereal"
+        ]
+      },
+      {
+      "title": "Fruit",
+      "options": [
+          "Orange Juice",
+          "Assorted Fruit"
+        ]
+      },
+      {
+      "title": "Beverage",
+      "options": [
+          "Milk Grade A White 1% lowfat",
+          "Milk Grade A Chocolate Fat free"
+        ]
+      }
+    ],
+    "lunch": [
+      {
+        "title": "Entree",
         "options": [
-            "Milk Grade A White 1% lowfat",
-            "Milk Grade A Chocolate Fat free"
-          ]
-        }
-      ]
+          "Biscuit",
+          "Gravy",
+          "Assorted Cereal"
+        ]
+      },
+      {
+      "title": "Fruit",
+      "options": [
+          "Orange Juice",
+          "Assorted Fruit"
+        ]
+      },
+      {
+      "title": "Beverage",
+      "options": [
+          "Milk Grade A White 1% lowfat",
+          "Milk Grade A Chocolate Fat free"
+        ]
+      }
+    ]
   }
 }
