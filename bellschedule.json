@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "id": 2,
+            "type": "period",
+            "attributes": {
+                "start_time": "08:51:00",
+                "end_time": "09:36:00",
+                "name": "2nd Period",
+                "type": 1,
+                "day_of_week": 1
+            }
+        },
+        {
+            "id": 76,
+            "type": "period",
+            "attributes": {
+                "start_time": "08:00:00",
+                "end_time": "08:45:00",
+                "name": "1st Period",
+                "type": 1,
+                "day_of_week": 1
+            }
+        },
+        {
+            "id": 77,
+            "type": "period",
+            "attributes": {
+                "start_time": "09:42:00",
+                "end_time": "10:27:00",
+                "name": "3rd Period",
+                "type": 1,
+                "day_of_week": 1
+            }
+        },
+        {
+            "id": 78,
+            "type": "period",
+            "attributes": {
+                "start_time": "10:33:00",
+                "end_time": "10:58:00",
+                "name": "Community Time",
+                "type": 3,
+                "day_of_week": 1
+            }
+        },
+        {
+            "id": 79,
+            "type": "period",
+            "attributes": {
+                "start_time": "11:04:00",
+                "end_time": "11:49:00",
+                "name": "4th Period",
+                "type": 1,
+                "day_of_week": 1
+            }
+        },
+        {
+            "id": 80,
+            "type": "period",
+            "attributes": {
+                "start_time": "11:49:00",
+                "end_time": "12:33:00",
+                "name": "Combined Lunch",
+                "type": 2,
+                "day_of_week": 1
+            }
+        },
+        {
+            "id": 81,
+            "type": "period",
+            "attributes": {
+                "start_time": "12:33:00",
+                "end_time": "13:18:00",
+                "name": "5th Period",
+                "type": 1,
+                "day_of_week": 1
+            }
+        },
+        {
+            "id": 82,
+            "type": "period",
+            "attributes": {
+                "start_time": "13:24:00",
+                "end_time": "14:09:00",
+                "name": "6th Period",
+                "type": 1,
+                "day_of_week": 1
+            }
+        },
+        {
+            "id": 83,
+            "type": "period",
+            "attributes": {
+                "start_time": "14:15:00",
+                "end_time": "15:00:00",
+                "name": "7th Period",
+                "type": 1,
+                "day_of_week": 1
+            }
+        }
+    ]
+}
