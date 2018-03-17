@@ -1,64 +1,65 @@
 {
-        "data": [
-                 {
-                     "startTime": "8:00",
-                     "endTime": "8:45",
-                     "name": "1st Period",
-                     "color": "blue"
-                 },
-                 {
-                     "startTime": "8:51",
-                     "endTime": "9:36",
-                     "name": "2nd Period",
-                     "color": "blue"
-                 },
-                 {
-                     "startTime": "9:42",
-                     "endTime": "10:27",
-                     "name": "3rd Period",
-                     "color": "blue"
-                 },
-                 {
-                     "startTime": "10:33",
-                     "endTime": "10:58",
-                     "name": "Community Time",
-                     "color": "green"
-                 },
-                 {
-                     "startTime": "11:04",
-                     "endTime": "11:49",
-                     "name": "4th Period",
-                     "color": "blue"
-                 },
-                 {
-                     "startTime": "11:49",
-                     "endTime": "12:33",
-                     "name": "Combined Lunch",
-                     "color": "orange"
-                 },
-                 {
-                     "startTime": "12:33",
-                     "endTime": "13:18",
-                     "name": "5th Period",
-                     "color": "blue"
-                 },
-                 {
-                     "startTime": "13:24",
-                     "endTime": "14:09",
-                     "name": "6th Period",
-                     "color": "blue"
-                 },
-                 {
-                     "startTime": "14:15",
-                     "endTime": "15:00",
-                     "name": "7th Period",
-                     "color": "blue"
-                 },
-                 {
-                     "startTime": "19:15",
-                     "endTime": "21:00",
-                     "name": "8th Period",
-                     "color": "blue"
-                 }
-                 ]
-    }
+    "data": [
+        {
+            "id": 20,
+            "type": "year",
+            "attributes": {
+                "start": "2017-08-22",
+                "end": "2018-06-01",
+                "name": "2017-2018",
+                "terms": [
+                    {
+                        "id": 31,
+                        "type": "term",
+                        "attributes": {
+                            "name": "Semester 2",
+                            "start": "2018-01-23",
+                            "end": "2018-06-01",
+                            "schedules": [
+                                {
+                                    "id": 35,
+                                    "type": "schedule",
+                                    "attributes": {
+                                        "name": "4a"
+                                    }
+                                },
+                                {
+                                    "id": 37,
+                                    "type": "schedule",
+                                    "attributes": {
+                                        "name": "4b"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 32,
+                        "type": "term",
+                        "attributes": {
+                            "name": "Semester 1",
+                            "start": "2017-08-22",
+                            "end": "2017-12-21",
+                            "schedules": [
+                                {
+                                    "id": 34,
+                                    "type": "schedule",
+                                    "attributes": {
+                                        "name": "4a"
+                                    }
+                                },
+                                {
+                                    "id": 36,
+                                    "type": "schedule",
+                                    "attributes": {
+                                        "name": "4b"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
